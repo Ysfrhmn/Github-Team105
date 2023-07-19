@@ -1,4 +1,4 @@
-public class A04 {
+public class GitHubKullanim1 {
     public static void main(String[] args) {
 
 
